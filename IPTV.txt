@@ -1,0 +1,686 @@
+#EXTM3U
+#EXTINF:0,SCTV VTV1
+#EXTGRP:VTV
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8
+#EXTINF:0,TV360 VTV1
+#EXTGRP:VTV
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.2.249:30120
+#EXTINF:0,VTV1 50PFS
+#EXTGRP:VTV
+https://api.wintv.me/360/2/index.m3u8
+#EXTINF:0,SCTV VTV2
+#EXTGRP:VTV
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv2/index.m3u8
+#EXTINF:0,TV360 VTV2
+#EXTGRP:VTV
+http://118.107.85.4:1935/live/smil:VTV2.smil/chunklist.m3u8
+#EXTINF:0,VTV2 50PFS
+#EXTGRP:VTV
+https://api.wintv.me/360/3/index.m3u8
+#EXTINF:0,SCTV VTV3
+#EXTGRP:VTV
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8
+#EXTINF:0,VTV3
+#EXTGRP:VTV
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.2.247:30120
+#EXTINF:0,VTV3 50PFS
+#EXTGRP:VTV
+https://api.wintv.me/360/4/index.m3u8
+#EXTINF:0,SCTV VTV4
+#EXTGRP:VTV
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4/index.m3u8
+#EXTINF:0,TV360 VTV4
+#EXTGRP:VTV
+https://api.wintv.me/360/108/index.m3u8
+#EXTINF:0,VTV5
+#EXTGRP:VTV
+https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
+#EXTINF:0,SCTV VTV5
+#EXTGRP:VTV
+https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5/index.m3u8
+#EXTINF:0,TV360 VTV5
+#EXTGRP:VTV
+https://api.wintv.me/360/110/index.m3u8
+#EXTINF:0,SCTV VTV5TNB
+#EXTGRP:VTV
+https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8
+#EXTINF:0,VTV5TNB-1
+#EXTGRP:VTV
+https://api.wintv.me/360/157/index.m3u8
+#EXTINF:0,SCTV VTV6
+#EXTGRP:VTV
+https://e8.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8
+#EXTINF:0,VTV6 Cần thơ
+#EXTGRP:VTV
+https://api.wintv.me/360/98/index.m3u8
+#EXTINF:0,SCTV VTV7
+#EXTGRP:VTV
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8
+#EXTINF:0,SCTV VTV8
+#EXTGRP:VTV
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8
+#EXTINF:0,SCTV VTV9
+#EXTGRP:VTV
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8
+
+#EXTINF:0, CAHEO1
+#EXTGRP:CAKHIA
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@caheohd1.flv
+#EXTINF:0, APHU
+#EXTGRP:CAKHIA
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@phuhd1.flv
+#EXTINF:0, AMEO
+#EXTGRP:CAKHIA
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@meohd1.flv
+#EXTINF:0, THOLAN
+#EXTGRP:CAKHIA
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@lanhd1.flv
+#EXTINF:0, THOXAY
+#EXTGRP:CAKHIA
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@thoxayhd1.flv
+#EXTINF:0, H+
+#EXTGRP:CAKHIA
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@hplushd1.flv
+#EXTINF:0, BỊP
+#EXTGRP:CAKHIA
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@biphd1.flv
+#EXTINF:0, CHUDU
+#EXTGRP:CAKHIA
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@chuduhd1.flv
+#EXTINF:0, CHUOI
+#EXTGRP:CAKHIA
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cachuoihd1.flv
+#EXTINF:0, XIMANG
+#EXTGRP:CAKHIA
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@ximanghd1.flv
+#EXTINF:0, A LỬ
+#EXTGRP:CAKHIA
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@luhd1.flv
+#EXTINF:0, A CAY
+#EXTGRP:CAKHIA
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cayhd1.flv
+#EXTINF:0, A LÚ
+#EXTGRP:CAKHIA
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@luluhd1.flv
+#EXTINF:0, A LÔI
+#EXTGRP:CAKHIA
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@loihd1.flv
+#EXTINF:0, A PÁO
+#EXTGRP:CAKHIA
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@paohd1.flv
+#EXTINF:0, A PHỌT
+#EXTGRP:CAKHIA
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@phothd1.flv
+#EXTINF:0, A PHÒ
+#EXTGRP:CAKHIA
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cakhiahd1.flv
+#EXTINF:0, A KHOAI
+#EXTGRP:CAKHIA
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@khoaihd1.flv
+#EXTINF:0, A CỎ
+#EXTGRP:CAKHIA
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cohd1.flv
+#EXTINF:0, A TÁO
+#EXTGRP:CAKHIA
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@taohd1.flv
+#EXTINF:0, A CHẤT
+#EXTGRP:CAKHIA
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@chathd1.flv
+#EXTINF:0, ONPLUS1
+#EXTGRP:ONPLUS
+https://liveh34.vtvcab.vn/hls/ONSPORT01/index.m3u8
+#EXTINF:0, ONPLUS2
+#EXTGRP:ONPLUS
+https://liveh34.vtvcab.vn/hls/ONSPORT02/index.m3u8
+#EXTINF:0, ONPLUS3
+#EXTGRP:ONPLUS
+https://liveh34.vtvcab.vn/hls/ONSPORT03/index.m3u8
+#EXTINF:0, ONPLUS4
+#EXTGRP:ONPLUS
+https://liveh34.vtvcab.vn/hls/ONSPORT04/index.m3u8
+#EXTINF:0, ONPLUS5
+#EXTGRP:ONPLUS
+https://liveh34.vtvcab.vn/hls/ONSPORT05/index.m3u8
+#EXTINF:0, ONPLUS6
+#EXTGRP:ONPLUS
+https://liveh34.vtvcab.vn/hls/ONSPORT06/index.m3u8
+#EXTINF:0, ONPLUS7
+#EXTGRP:ONPLUS
+https://liveh34.vtvcab.vn/hls/ONSPORT07/index.m3u8
+#EXTINF:0, ONPLUS8
+#EXTGRP:ONPLUS
+https://liveh34.vtvcab.vn/hls/ONSPORT08/index.m3u8
+#EXTINF:0, ONPLUS9
+#EXTGRP:ONPLUS
+https://liveh34.vtvcab.vn/hls/ONSPORT09/index.m3u8
+#EXTINF:0, ONPLUS10
+#EXTGRP:ONPLUS
+https://liveh34.vtvcab.vn/hls/ONSPORT010/index.m3u8
+#EXTINF:0,On Vie Giai trí
+#EXTGRP:VTV CAB
+https://api.wintv.me/360/180/index.m3u8
+#EXTINF:0,ON Phim Việt
+#EXTGRP:VTV CAB
+https://api.wintv.me/360/175/index.m3u8
+#EXTINF:0,ON sport
+#EXTGRP:VTV CAB
+https://devsy.pw/vtvcab3/index.m3u8
+#EXTINF:0,ON sport
+#EXTGRP:VTV CAB
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8
+#EXTINF:0,ON sport1
+#EXTGRP:VTV CAB
+https://api.wintv.me/vtvcab3/index.m3u8
+#EXTINF:0,ON sport2
+#EXTGRP:VTV CAB
+http://hoatv001.ddns.net:9981/stream/mux/892b3d1af461c12cfc533d720742365c?
+#EXTINF:0,ON movies
+#EXTGRP:VTV CAB
+https://api.wintv.me/360/181/index.m3u8
+#EXTINF:0,ON E Channel
+#EXTGRP:VTV CAB
+https://api.wintv.me/360/182/index.m3u8
+#EXTINF:0,ON sport+
+#EXTGRP:VTV CAB
+https://devsy.pw/vtvcab6/index.m3u8
+#EXTINF:0,ON sport+1
+#EXTGRP:VTV CAB
+https://api.wintv.me/vtvcab6/index.m3u8
+#EXTINF:0,ON O2
+#EXTGRP:VTV CAB
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab7/index.m3u8
+#EXTINF:0,ON BIBI
+#EXTGRP:VTV CAB
+https://api.wintv.me/360/178/index.m3u8
+#EXTINF:0,ON INFO
+#EXTGRP:VTV CAB
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab9/index.m3u8
+#EXTINF:0,ON CINE
+#EXTGRP:VTV CAB
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8
+#EXTINF:0,ON STYLE
+#EXTGRP:VTV CAB
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab12/index.m3u8
+#EXTINF:0,ON MUSIC
+#EXTGRP:VTV CAB
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab15/index.m3u8
+#EXTINF:0,ON FOOTBALL
+#EXTGRP:VTV CAB
+https://liveh12.vtvcab.vn/hls/ONFOOTBALL123/04.m3u8
+#EXTINF:0,ON FOOTBALL-1
+#EXTGRP:VTV CAB
+https://api.wintv.me/vtvcab16/index.m3u8
+#EXTINF:0,ON FOOTBALL-2
+#EXTGRP:VTV CAB
+http://m3u.at/cab16-fhd?index-m3u8
+#EXTINF:0,ON TRENDING
+#EXTGRP:VTV CAB
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8
+#EXTINF:0,ON SPORTNEWS
+#EXTGRP:VTV CAB
+https://api.wintv.me/vtvcab18/index.m3u8
+#EXTINF:0,ON SPORTNEWS-1
+#EXTGRP:VTV CAB
+https://api.wintv.me/360/170/index.m3u8
+#EXTINF:0,ON SPORTNEWS-2
+#EXTGRP:VTV CAB
+https://s.id/ONFNEWS
+#EXTINF:0,ON VIE DRAMA
+#EXTGRP:VTV CAB
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8
+#EXTINF:0,ON VIE FAMILY
+#EXTGRP:VTV CAB
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8
+#EXTINF:0,ON KIDS
+#EXTGRP:VTV CAB
+https://dethich.pw/vtvcab21/index.m3u8
+#EXTINF:0,ON LIFE 
+#EXTGRP:VTV CAB
+http://m3u.at/cab22-hd?token/playlist.m3u8
+#EXTINF:0,ON GOLF
+#EXTGRP:VTV CAB
+https://tth.vn/vtvcab23
+#EXTINF:0,ON SPORT ACTION
+#EXTGRP:VTV CAB
+https://devsy.pw/tvhd/2380/index.m3u8
+#EXTINF:0,VTC1
+#EXTGRP:VTC
+https://api.wintv.me/360/16/index.m3u8
+#EXTINF:0,VTC1-1
+#EXTGRP:VTC
+http://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
+#EXTINF:0,VTC1-2
+#EXTGRP:VTC
+https://vtc301220.cdn.vnns.io/VTC1HD.stream/chunks.m3u8
+#EXTINF:0,VTC2
+#EXTGRP:VTC
+https://api.wintv.me/360/196/index.m3u8
+#EXTINF:0,VTC3
+#EXTGRP:VTC
+https://api.wintv.me/360/197/index.m3u8
+#EXTINF:0,VTC3-1
+#EXTGRP:VTC
+http://api.wintv.me/360/197/index.m3u8
+#EXTINF:0,VTC4
+#EXTGRP:VTC
+https://api.wintv.me/360/198/index.m3u8
+#EXTINF:0,VTC5
+#EXTGRP:VTC
+https://api.wintv.me/360/199/index.m3u8
+#EXTINF:0,VTC6
+#EXTGRP:VTC
+https://api.wintv.me/360/200/index.m3u8
+#EXTINF:0,VTC7
+#EXTGRP:VTC
+https://api.wintv.me/360/201/index.m3u8
+#EXTINF:0,VTC8
+#EXTGRP:VTC
+https://api.wintv.me/360/202/index.m3u8
+#EXTINF:0,VTC9
+#EXTGRP:VTC
+https://api.wintv.me/360/203/index.m3u8
+#EXTINF:0,VTC10
+#EXTGRP:VTC
+https://api.wintv.me/360/204/index.m3u8
+#EXTINF:0,VTC11
+#EXTGRP:VTC
+https://api.wintv.me/360/205/index.m3u8
+#EXTINF:0,VTC14
+#EXTGRP:VTC
+https://api.wintv.me/360/17/index.m3u8
+#EXTINF:0,VTC16
+#EXTGRP:VTC
+https://api.wintv.me/360/18/index.m3u8
+#EXTINF:0,VOV
+#EXTGRP:VTC
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
+#EXTINF:0,QUOC HOI
+#EXTGRP:THIET YEU
+https://cloudvodqh.tek4tv.vn/live/quochoi_abr.m3u8
+#EXTINF:0,QUOC HOI
+#EXTGRP:THIET YEU
+https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/index.m3u8
+#EXTINF:0,ANTV
+#EXTGRP:THIET YEU
+https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
+#EXTINF:0,ANTV1
+#EXTGRP:THIET YEU
+https://liveh34.vtvcab.vn/hls/ONANTV_CL/index.m3u8
+#EXTINF:0,An ninh TG
+#EXTGRP:THIET YEU
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
+#EXTINF:0,TTXVN
+#EXTGRP:THIET YEU
+https://zjizeoupprliv.vcdn.cloud/live/smil:vnews.smil/playlist.m3u8
+#EXTINF:0,TTXVN
+#EXTGRP:THIET YEU
+https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8
+#EXTINF:0,NHANDAN
+#EXTGRP:THIET YEU
+https://arpt.tvic.vn/live/nhandan720/chunklist.m3u8
+#EXTINF:0,NHANDAN
+#EXTGRP:THIET YEU
+https://liveh34.vtvcab.vn/hls/ONNHANDAN_CL/03.m3u8
+#EXTINF:0,QPVN
+#EXTGRP:THIET YEU
+https://playlive.qpvn.vn/live/qpvn.m3u8
+#EXTINF:0,QPVN
+#EXTGRP:THIET YEU
+https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
+#EXTINF:0,HTV1
+#EXTGRP:HTV
+https://vc.101vn.com/htv/htvcmb.php?id=2631
+#EXTINF:0,HTV1 sctv
+#EXTGRP:HTV
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv1/index.m3u8
+#EXTINF:0,HTV2
+#EXTGRP:HTV
+https://vc.101vn.com/htv/htvcmb.php?id=2669
+#EXTINF:0,HTV2-sctv
+#EXTGRP:HTV
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8
+#EXTINF:0,HTV3-sctv
+#EXTGRP:HTV
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8
+#EXTINF:0,HTV KEY
+#EXTGRP:HTV
+https://vc.101vn.com/htv/htvcmb.php?id=2528
+#EXTINF:0,HTV4 sctv
+#EXTGRP:HTV
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8
+#EXTINF:0,HTV7
+#EXTGRP:HTV
+https://vc.101vn.com/htv/htvcmb.php?id=256
+#EXTINF:0,HTV7-sctv
+#EXTGRP:HTV
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8
+#EXTINF:0,HTV9
+#EXTGRP:HTV 
+https://vc.101vn.com/htv/htvcmb.php?id=2667
+#EXTINF:0,HTV9-sctv
+#EXTGRP:HTV
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8
+#EXTINF:0,HTV SPORT
+#EXTGRP:HTV
+http://171.238.180.25:18080/304.m3u8
+#EXTINF:0,HTV SPORT-sctv
+#EXTGRP:HTV
+https://e2.endpoint.cdn.sctvonline.vn/hls/thethao/index.m3u8
+#EXTINF:0,HTV CANHAC
+#EXTGRP:HTV
+https://1011154949.vnns.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
+#EXTINF:0,HTV DULICH
+#EXTGRP:HTV
+https://1011154949.vnns.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
+#EXTINF:0,HTV GIADINH
+#EXTGRP:HTV
+https://1011154949.vnns.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
+#EXTINF:0,HTV PHIM
+#EXTGRP:HTV
+https://1011154949.vnns.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+#EXTINF:0,HTV PHUNU
+#EXTGRP:HTV
+https://1011154949.vnns.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
+#EXTINF:0,HTV THUANVIET
+#EXTGRP:HTV
+https://1011154949.vnns.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
+#EXTINF:0,HTV PLUS
+#EXTGRP:HTV
+https://1011154949.vnns.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
+#EXTINF:0,SCTV1
+#EXTGRP:SCTV
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv1/index.m3u8?
+#EXTINF:0,SCTV2
+#EXTGRP:SCTV
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv2/index.m3u8?
+#EXTINF:0,SCTV3
+#EXTGRP:SCTV
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv3/index.m3u8?
+#EXTINF:0,SCTV4
+#EXTGRP:SCTV
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8?
+#EXTINF:0,SCTV5
+#EXTGRP:SCTV
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv5/index.m3u8?
+#EXTINF:0,SCTV6
+#EXTGRP:SCTV
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/index.m3u8?
+#EXTINF:0,SCTV7
+#EXTGRP:SCTV
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv7/index.m3u8?
+#EXTINF:0,SCTV8
+#EXTGRP:SCTV
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv8/index.m3u8?
+#EXTINF:0,SCTV9
+#EXTGRP:SCTV
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/index.m3u8?
+#EXTINF:0,SCTV10
+#EXTGRP:SCTV
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8?
+#EXTINF:0,SCTV11
+#EXTGRP:SCTV
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/index.m3u8?
+#EXTINF:0,SCTV12
+#EXTGRP:SCTV
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv12/index.m3u8?
+#EXTINF:0,SCTV13
+#EXTGRP:SCTV
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv13/index.m3u8?
+#EXTINF:0,SCTV14
+#EXTGRP:SCTV
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_b1692000.m3u8?
+#EXTINF:0,SCTV15
+#EXTGRP:SCTV
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8?
+#EXTINF:0,SCTV16
+#EXTGRP:SCTV
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/index.m3u8?
+#EXTINF:0,SCTV17
+#EXTGRP:SCTV
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/index.m3u8?
+#EXTINF:0,SCTV18
+#EXTGRP:SCTV
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv18/index.m3u8?
+#EXTINF:0,SCTV19
+#EXTGRP:SCTV
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv19/index.m3u8?
+#EXTINF:0,SCTV20
+#EXTGRP:SCTV
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8?
+#EXTINF:0,SCTV21
+#EXTGRP:SCTV
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv21/index.m3u8?
+#EXTINF:0,SCTV22
+#EXTGRP:SCTV
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/index.m3u8?
+#EXTINF:0,SCTV PHIM
+#EXTGRP:SCTV
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8?
+#EXTINF:0,HBO
+#EXTGRP:FILM
+http://s4.nihontv.net:21585/hbo/index.m3u8
+#EXTINF:0,HBO HD
+#EXTGRP:FILM
+https://khanggtivi.xyz/vuminhthanh/vmt2024/hbo/index.m3u8
+#EXTINF:0,HBO HD SUB
+#EXTGRP:FILM
+http://103.183.118.124:1234/stream/hbo/stream.m3u8
+#EXTINF:0,BOX MOVIE
+#EXTGRP:FILM
+https://oipf0znpmnliv.vcdn.cloud/hls/boxmovie1/index.m3u8
+#EXTINF:0,BOX MOVIE SCTV
+#EXTGRP:FILM
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
+#EXTINF:0,BOX MOVIE TV360
+#EXTGRP:FILM
+https://thvip.site/360/159/index.m3u8
+#EXTINF:0,BOX MOVIE1
+#EXTGRP:FILM
+https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
+#EXTINF:0,Hollywood Classics
+#EXTGRP:FILM
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
+#EXTINF:0,Hollywood Classics TV360
+#EXTGRP:FILM
+https://api.wintv.me/360/160/index.m3u8
+#EXTINF:0,Happy Kids
+#EXTGRP:FILM
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8?
+#EXTINF:0,CINEMAX
+#EXTGRP:FILM
+http://123.21.223.9:8081/live/cinemax/index.m3u8
+#EXTINF:0,CINEMAX 1
+#EXTGRP:FILM
+https://khanggtivi.xyz/vuminhthanh/vmt2024/cinemax/index.m3u8
+#EXTINF:0,CINEMAX sub
+##EXTGRP:FILM
+http://103.183.118.124:1234/stream/cinemaxhd/stream.m3u8
+#EXTINF:0,TAOTHAO
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/TAOTHAO.flv
+#EXTINF:0,TONGGIANG
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/TONGGIANG.flv
+#EXTINF:0,TRIEUTULONG
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/TRIEUTULONG.flv
+#EXTINF:0,HANGVU
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/HANGVU.flv
+#EXTINF:0,MODUNG
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/MODUNGPHUC.flv
+#EXTINF:0,SONGNHI
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/SONGNHI.flv
+#EXTINF:0,THANHDO
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/THANHDO.flv
+#EXTINF:0,HOANGTIN
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/HOANGTIN.flv
+#EXTINF:0,NGUYENBA
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/NGUYENBA.flv
+#EXTINF:0,HOACDO
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/HOACDO.flv
+#EXTINF:0,DUONGCHI
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/DUONGCHI.flv
+#EXTINF:0,QUANVU
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/QUANVU.flv
+#EXTINF:0,QUACHTINH
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/QUACHTINH.flv
+#EXTINF:0,DOHIEP
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/DOHIEP.flv
+#EXTINF:0,TANMINH
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/TANMINH.flv
+#EXTINF:0,LAMXUNG
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/LAMXUNG.flv
+#EXTINF:0,TUNINH
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/TUNINH.flv
+#EXTINF:0,PHONGVAN
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/PHONGVAN.flv
+#EXTINF:0,LUTUANNGHIA
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/LUTUANNGHIA.flv
+#EXTINF:0,CANLONG
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/CANLONG.flv
+#EXTINF:0,SAITIEN
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/SAITIEN.flv
+#EXTINF:0,HAUNGHE
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/HAUNGHE.flv
+#EXTINF:0,HANTIN
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/HANTIN.flv
+#EXTINF:0,HOAVINH
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/HOAVINH.flv
+#EXTINF:0,CONGTONTHANG
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/CONGTONTHANG.flv
+#EXTINF:0,TAMCA
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/TAMCA.flv
+#EXTINF:0,NGUCA
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/NGUCA.flv
+#EXTINF:0,DOANCHIBINH
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/DOANCHIBINH.flv
+#EXTINF:0,VUONGANH
+##EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/VUONGANH.flv
+#EXTINF:0,Sky Sports Main Event
+##EXTGRP:Premier League
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7337/index.m3u8
+#EXTINF:0,SkySports Main Event
+##EXTGRP:Premier League
+http://extraott.com:80/live/7921751389/6097373662/191674.m3u8
+#EXTINF:0,SkySports MainEvent
+##EXTGRP:Premier League
+http://extraott.com:80/live/7921751389/6097373662/153691.m3u8
+#EXTINF:0,SkySportsMainEvent
+##EXTGRP:Premier League
+https://7pal.short.gy/skspmaine
+#EXTINF:0,Sky Sports Main Event HD
+##EXTGRP:Premier League
+http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1669928
+#EXTINF:0,Sky Sports Main Event HD 25
+##EXTGRP:Premier League
+http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1669927
+#EXTINF:0,SkySport Premier League
+##EXTGRP:Premier League
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8
+#EXTINF:0,Sky Sport Premier League 
+##EXTGRP:Premier League
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8
+#EXTINF:0,Sky Sport Premier League 50 FPS
+##EXTGRP:Premier League
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/9334/index.m3u8
+#EXTINF:0,Sky Sport Premier League FHD
+##EXTGRP:Premier League
+http://extraott.com:900/live/3338826713/8323116234/153693.m3u8
+#EXTINF:0,Viasat Sport Premier League FHD
+##EXTGRP:Premier League
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/330207
+#EXTINF:0,Viasat Sport Premier League FHD 1
+##EXTGRP:Premier League
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/330206
+#EXTINF:0,Viasat Sport Premier League FHD 2
+##EXTGRP:Premier League
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/330205
+#EXTINF:0,Viasat Sport Premier League FHD 3
+##EXTGRP:Premier League
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/330204
+#EXTINF:0,Viasat Sport Premier League FHD 4
+##EXTGRP:Premier League
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/330203
+#EXTINF:0,NOva Sports Premier League HD
+##EXTGRP:Premier League
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/284255
+#EXTINF:0,Cytavision Sports Premier League HD
+##EXTGRP:Premier League
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/306334
+#EXTINF:0,PEACOCK : PREMIER LEAGUE
+##EXTGRP:Premier League
+http://extraott.com:80/live/7921751389/6097373662/64567.m3u8
+#EXTINF:0,LIVE PREMIER LEAGUE
+##EXTGRP:Premier League
+https://cloud.lxweb.cn/f/KkbRsX/1.MOV
+#EXTINF:0,LIVE PREMIER LEAGUE1
+##EXTGRP:Premier League
+https://cloud.lxweb.cn/f/KkbRsX/1.MOV
+#EXTINF:0,Now Sports Premier League 1 FHD
+##EXTGRP:Premier League
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/200230
+#EXTINF:0,Now Sports Premier League 2 FHD
+##EXTGRP:Premier League
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/200229
+#EXTINF:0,Now Sports Premier League 3 FHD
+##EXTGRP:Premier League
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/200228
+#EXTINF:0,Now Sports Premier League 4 FHD
+##EXTGRP:Premier League
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/200227
+#EXTINF:0,Now Sports Premier League 5 FHD
+##EXTGRP:Premier League
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/200226
+#EXTINF:0,Now Sports Premier League 6 FHD
+##EXTGRP:Premier League
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/200225
+#EXTINF:0,Now Sports Premier League 7 FHD
+##EXTGRP:Premier League
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/246329
+#EXTINF:0, TV HD1
+##EXTGRP:LALIGA
+http://extraott.com:80/live/7921751389/6097373662/191145.m3u8
+#EXTINF:0, TV HD2
+##EXTGRP:LALIGA
+http://extraott.com:80/live/7921751389/6097373662/190011.m3u8
+#EXTINF:0, SKY SPORT SERIE A FHD
+##EXTGRP:SERIE A
+http://extraott.com:80/live/7921751389/6097373662/400230064.m3u8
+#EXTINF:0, UEFA Champion League
+##EXTGRP:C1
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233629
+#EXTINF:0, BT Sport 1 HD
+##EXTGRP:C1
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232305
+#EXTINF:0, BT Sport 2 HD
+##EXTGRP:C1
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232306
+#EXTINF:0, BT Sport 3 HD
+##EXTGRP:C1
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232307
