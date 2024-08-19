@@ -615,9 +615,9 @@ http://extraott.com:900/live/3338826713/8323116234/153693.m3u8
 #EXTINF:0,Sky Sport Action
 ##EXTGRP:Premier League
 http://stream.tvtap.live:8081/live/maction.stream/playlist.m3u8
-#EXTINF:0,Viasat Sport Premier League FHD 1
+#EXTINF:0,Sky Sport Football
 ##EXTGRP:Premier League
-http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/330206
+http://stream.tvtap.live:8081/live/skysports-football.stream/chunks.m3u8
 #EXTINF:0,Viasat Sport Premier League FHD 2
 ##EXTGRP:Premier League
 http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/330205
