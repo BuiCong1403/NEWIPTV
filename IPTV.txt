@@ -695,12 +695,10 @@ http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7337/index.m3u8
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
 #EXTINF:0, SkySportsBundesliga
 #EXTGRP:Sky Sports
-#EXTINF:-1 group-title="🪂Sky Sports ③🪂",Sky Sports Bundesliga
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7234/index.m3u8
 #EXTINF:0, SkySportsFootball 1
 #EXTGRP:Sky Sports
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7338/index.m3u8
-#EXTINF:-1 group-title="🪂Sky Sports ③🪂",Sky Sports Football
 #EXTINF:0, SkySportsFootball 2
 #EXTGRP:Sky Sports
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7340/index.m3u8
