@@ -493,194 +493,223 @@ http://123.21.223.9:8081/live/cinemax/index.m3u8
 #EXTGRP:FILM
 https://khanggtivi.xyz/vuminhthanh/vmt2024/cinemax/index.m3u8
 #EXTINF:0,CINEMAX sub
-##EXTGRP:FILM
+#EXTGRP:FILM
 http://103.183.118.124:1234/stream/cinemaxhd/stream.m3u8
 #EXTINF:0,TAOTHAO
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/TAOTHAO.flv
 #EXTINF:0,TONGGIANG
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/TONGGIANG.flv
 #EXTINF:0,TRIEUTULONG
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/TRIEUTULONG.flv
 #EXTINF:0,HANGVU
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/HANGVU.flv
 #EXTINF:0,MODUNG
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/MODUNGPHUC.flv
 #EXTINF:0,SONGNHI
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/SONGNHI.flv
 #EXTINF:0,THANHDO
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/THANHDO.flv
 #EXTINF:0,HOANGTIN
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/HOANGTIN.flv
 #EXTINF:0,NGUYENBA
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/NGUYENBA.flv
 #EXTINF:0,HOACDO
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/HOACDO.flv
 #EXTINF:0,DUONGCHI
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/DUONGCHI.flv
 #EXTINF:0,QUANVU
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/QUANVU.flv
 #EXTINF:0,QUACHTINH
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/QUACHTINH.flv
 #EXTINF:0,DOHIEP
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/DOHIEP.flv
 #EXTINF:0,TANMINH
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/TANMINH.flv
 #EXTINF:0,LAMXUNG
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/LAMXUNG.flv
 #EXTINF:0,TUNINH
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/TUNINH.flv
 #EXTINF:0,PHONGVAN
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/PHONGVAN.flv
 #EXTINF:0,LUTUANNGHIA
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/LUTUANNGHIA.flv
 #EXTINF:0,CANLONG
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/CANLONG.flv
 #EXTINF:0,SAITIEN
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/SAITIEN.flv
 #EXTINF:0,HAUNGHE
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/HAUNGHE.flv
 #EXTINF:0,HANTIN
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/HANTIN.flv
 #EXTINF:0,HOAVINH
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/HOAVINH.flv
 #EXTINF:0,CONGTONTHANG
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/CONGTONTHANG.flv
 #EXTINF:0,TAMCA
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/TAMCA.flv
 #EXTINF:0,NGUCA
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/NGUCA.flv
 #EXTINF:0,DOANCHIBINH
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/DOANCHIBINH.flv
 #EXTINF:0,VUONGANH
-##EXTGRP:LUONGSON TV
+#EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/VUONGANH.flv
 #EXTINF:0,Sky Sports Main Event
-##EXTGRP:Premier League
+#EXTGRP:Premier League
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7337/index.m3u8
 #EXTINF:0,SkySports Main Event
-##EXTGRP:Premier League
+#EXTGRP:Premier League
 http://extraott.com:80/live/7921751389/6097373662/191674.m3u8
 #EXTINF:0,SkySports MainEvent
-##EXTGRP:Premier League
+#EXTGRP:Premier League
 http://extraott.com:80/live/7921751389/6097373662/153691.m3u8
 #EXTINF:0,SkySportsMainEvent
-##EXTGRP:Premier League
+#EXTGRP:Premier League
 https://7pal.short.gy/skspmaine
 #EXTINF:0,Sky Sports Main Event HD
-##EXTGRP:Premier League
+#EXTGRP:Premier League
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1669928
 #EXTINF:0,Sky Sports Main Event HD 25
-##EXTGRP:Premier League
+#EXTGRP:Premier League
 http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1669927
 #EXTINF:0,SkySport Premier League
-##EXTGRP:Premier League
+#EXTGRP:Premier League
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8
 #EXTINF:0,Sky Sport Premier League 
-##EXTGRP:Premier League
+#EXTGRP:Premier League
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8
 #EXTINF:0,Sky Sport Premier League 50 FPS
-##EXTGRP:Premier League
+#EXTGRP:Premier League
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/9334/index.m3u8
 #EXTINF:0,Sky Sport Premier League FHD
-##EXTGRP:Premier League
+#EXTGRP:Premier League
 http://extraott.com:900/live/3338826713/8323116234/153693.m3u8
 #EXTINF:0,Sky Sport Action
-##EXTGRP:Premier League
+#EXTGRP:Premier League
 http://stream.tvtap.live:8081/live/maction.stream/playlist.m3u8
 #EXTINF:0,Sky Sport Football
-##EXTGRP:Premier League
+#EXTGRP:Premier League
 http://stream.tvtap.live:8081/live/skysports-football.stream/chunks.m3u8
 #EXTINF:0,Sky Sport +
-##EXTGRP:Premier League
+#EXTGRP:Premier League
 http://luckyiptv.ddns.net:23000/live/Eugenio/Eugenio/8640.ts
-#EXTINF:0,Viasat Sport Premier League FHD 3
-##EXTGRP:Premier League
-http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/330204
-#EXTINF:0,Viasat Sport Premier League FHD 4
-##EXTGRP:Premier League
-http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/330203
-#EXTINF:0,NOva Sports Premier League HD
-##EXTGRP:Premier League
-http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/284255
-#EXTINF:0,Cytavision Sports Premier League HD
-##EXTGRP:Premier League
-http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/306334
-#EXTINF:0,PEACOCK : PREMIER LEAGUE
-##EXTGRP:Premier League
-http://extraott.com:80/live/7921751389/6097373662/64567.m3u8
-#EXTINF:0,LIVE PREMIER LEAGUE
-##EXTGRP:Premier League
-https://cloud.lxweb.cn/f/KkbRsX/1.MOV
-#EXTINF:0,LIVE PREMIER LEAGUE1
-##EXTGRP:Premier League
-https://cloud.lxweb.cn/f/KkbRsX/1.MOV
-#EXTINF:0,Now Sports Premier League 1 FHD
-##EXTGRP:Premier League
-http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/200230
-#EXTINF:0,Now Sports Premier League 2 FHD
-##EXTGRP:Premier League
-http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/200229
-#EXTINF:0,Now Sports Premier League 3 FHD
-##EXTGRP:Premier League
-http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/200228
-#EXTINF:0,Now Sports Premier League 4 FHD
-##EXTGRP:Premier League
-http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/200227
-#EXTINF:0,Now Sports Premier League 5 FHD
-##EXTGRP:Premier League
-http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/200226
-#EXTINF:0,Now Sports Premier League 6 FHD
-##EXTGRP:Premier League
-http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/200225
-#EXTINF:0,Now Sports Premier League 7 FHD
-##EXTGRP:Premier League
-http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/246329
 #EXTINF:0, TV HD1
-##EXTGRP:LALIGA
+#EXTGRP:OTHER LEAGUE
 http://extraott.com:80/live/7921751389/6097373662/191145.m3u8
 #EXTINF:0, TV HD2
-##EXTGRP:LALIGA
+#EXTGRP:OTHER LEAGUE
 http://extraott.com:80/live/7921751389/6097373662/190011.m3u8
 #EXTINF:0, SKY SPORT SERIE A FHD
-##EXTGRP:SERIE A
+#EXTGRP:OTHER LEAGUE
 http://extraott.com:80/live/7921751389/6097373662/400230064.m3u8
 #EXTINF:0, UEFA Champion League
-##EXTGRP:C1
+#EXTGRP:OTHER LEAGUE
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233629
 #EXTINF:0, BT Sport 1 HD
-##EXTGRP:C1
+#EXTGRP:OTHER LEAGUE
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232305
 #EXTINF:0, BT Sport 2 HD
-##EXTGRP:C1
+#EXTGRP:OTHER LEAGUE
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232306
 #EXTINF:0, BT Sport 3 HD
-##EXTGRP:C1
+#EXTGRP:OTHER LEAGUE
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232307
+#EXTINF:0, Sky Sports Comprehensive FHD
+#EXTGRP:Sky Sports
+http://extraott.com:900/live/3338826713/8323116234/153691.m3u8
+#EXTINF:0, Sky SportPremierLeague FHD
+#EXTGRP:Sky Sports
+http://extraott.com:900/live/3338826713/8323116234/153693.m3u8
+#EXTINF:0, SkySports News FHD
+#EXTGRP:Sky Sports
+http://extraott.com:900/live/3338826713/8323116234/153707.m3u8
+#EXTINF:0, SkySports Football FHD
+#EXTGRP:Sky Sports
+http://extraott.com:900/live/3338826713/8323116234/153695.m3u8
+#EXTINF:0, SkySports Arena FHD
+#EXTGRP:Sky Sports
+http://extraott.com:900/live/3338826713/8323116234/191465.m3u8
+#EXTINF:0, SkySports USA FHD
+#EXTGRP:Sky Sports
+http://extraott.com:900/live/3338826713/8323116234/39806.m3u8
+#EXTINF:0, SkySports Events FHD
+#EXTGRP:Sky Sports
+http://extraott.com:900/live/3338826713/8323116234/153711.m3u8
+#EXTINF:0, SkySports Lions FHD
+#EXTGRP:Sky Sports
+http://extraott.com:900/live/3338826713/8323116234/400230318.m3u8
+#EXTINF:0, SkySports Paid FHD
+#EXTGRP:Sky Sports
+http://extraott.com:900/live/3338826713/8323116234/2454.m3u8
+#EXTINF:0, SkySports Main Event
+#EXTGRP:Sky Sports
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7337/index.m3u8
+#EXTINF:0, SkySports Premier League
+#EXTGRP:Sky Sports
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8
+#EXTINF:0, SkySports Football
+#EXTGRP:Sky Sports
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7336/index.m3u8
+#EXTINF:0, SkySports Arena
+#EXTGRP:Sky Sports
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7338/index.m3u8
+#EXTINF:0, SkySports Comprehensive
+#EXTGRP:Sky Sports
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7339/index.m3u8
+#EXTINF:0, SkySports Action
+#EXTGRP:Sky Sports
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7340/index.m3u8
+#EXTINF:0, SkySportsComprehensive
+#EXTGRP:Sky Sports
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7337/index.m3u8
+#EXTINF:0, SkySportsFootball
+#EXTGRP:Sky Sports
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
+#EXTINF:0, SkySportsBundesliga
+#EXTGRP:Sky Sports
+#EXTINF:-1 group-title="🪂Sky Sports ③🪂",Sky Sports Bundesliga
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7234/index.m3u8
+#EXTINF:0, SkySportsFootball 1
+#EXTGRP:Sky Sports
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7338/index.m3u8
+#EXTINF:-1 group-title="🪂Sky Sports ③🪂",Sky Sports Football
+#EXTINF:0, SkySportsFootball 2
+#EXTGRP:Sky Sports
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7340/index.m3u8
+#EXTINF:0, SkySportsFootball 3
+#EXTGRP:Sky Sports
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7341/index.m3u8
+#EXTINF:0, SkySportsNews
+#EXTGRP:Sky Sports
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
+#EXTINF:0, SkySportsPremier League
+#EXTGRP:Sky Sports
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7335/index.m3u8
