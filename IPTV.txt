@@ -582,6 +582,21 @@ https://2576342355.global.cdnfastest.com/live/DOANCHIBINH.flv
 #EXTINF:0,VUONGANH
 #EXTGRP:LUONGSON TV
 https://2576342355.global.cdnfastest.com/live/VUONGANH.flv
+#EXTINF:0,CHUBATHONG
+#EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/CHUBATHONG.flv
+#EXTINF:0,TRUONGTHANH
+#EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/TRUONGTHANH.flv
+#EXTINF:0,LUUBI
+#EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/LUUBI.flv
+#EXTINF:0,DICHNHANKIET
+#EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/DICHNHANKIET.flv
+#EXTINF:0,HOACNGUYENGIAP
+#EXTGRP:LUONGSON TV
+https://2576342355.global.cdnfastest.com/live/HOACNGUYENGIAP.flv
 #EXTINF:0,Sky Sports Main Event
 #EXTGRP:Premier League
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7337/index.m3u8
