@@ -726,3 +726,15 @@ http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
 #EXTINF:0, SkySportsPremier League
 #EXTGRP:Sky Sports
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7335/index.m3u8
+#EXTINF:0, K+Cine
+#EXTGRP:K+
+http://is.am/5mf7/khichtivi/k+3/index.m3u8
+#EXTINF:0, K+Action
+#EXTGRP:K+
+http://is.am/5mf8/khichtivi/k+4/index.m3u8
+#EXTINF:0, K+Live1
+#EXTGRP:K+
+http://api.4gsieutoc.online/myk/myk.php?id=klive1
+#EXTINF:0, K+Live2
+#EXTGRP:K+
+http://api.4gsieutoc.online/myk/myk.php?id=klive2
