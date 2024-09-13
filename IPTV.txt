@@ -172,7 +172,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8
 https://api.wintv.me/vtvcab3/index.m3u8
 #EXTINF:0,ON sport2
 #EXTGRP:VTV CAB
-http://hoatv001.ddns.net:9981/stream/mux/892b3d1af461c12cfc533d720742365c?
+http://antm.dynu.net:14285/rtp/232.84.3.242:11374
 #EXTINF:0,ON movies
 #EXTGRP:VTV CAB
 https://api.wintv.me/360/181/index.m3u8
@@ -211,7 +211,7 @@ https://liveh12.vtvcab.vn/hls/ONFOOTBALL123/04.m3u8
 https://api.wintv.me/vtvcab16/index.m3u8
 #EXTINF:0,ON FOOTBALL-2
 #EXTGRP:VTV CAB
-http://m3u.at/cab16-fhd?index-m3u8
+https://khanggtivi.xyz/vuminhthanh/vmt2024/onfootball/index.m3u8
 #EXTINF:0,ON TRENDING
 #EXTGRP:VTV CAB
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8
