@@ -181,7 +181,7 @@ https://api.wintv.me/360/181/index.m3u8
 https://api.wintv.me/360/182/index.m3u8
 #EXTINF:0,ON sport+
 #EXTGRP:VTV CAB
-https://devsy.pw/vtvcab6/index.m3u8
+https://tth.vn/ONSPORT-HD
 #EXTINF:0,ON sport+1
 #EXTGRP:VTV CAB
 https://api.wintv.me/vtvcab6/index.m3u8
@@ -658,40 +658,28 @@ https://2576342355.global.cdnfastest.com/live/DICHNHANKIET.flv
 https://2576342355.global.cdnfastest.com/live/HOACNGUYENGIAP.flv
 #EXTINF:0,Sky Sports Main Event
 #EXTGRP:Premier League
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7337/index.m3u8
+http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/2881.ts
 #EXTINF:0,SkySports Main Event
 #EXTGRP:Premier League
-http://extraott.com:80/live/7921751389/6097373662/191674.m3u8
+https://7pal.short.gy/SSMEuhd
 #EXTINF:0,SkySports MainEvent
 #EXTGRP:Premier League
-http://extraott.com:80/live/7921751389/6097373662/153691.m3u8
+http://p1.cvtv.xyz/pl?token=live
 #EXTINF:0,SkySportsMainEvent
 #EXTGRP:Premier League
 https://7pal.short.gy/skspmaine
-#EXTINF:0,Sky Sports Main Event HD
+#EXTINF:0,Sky Sports News
 #EXTGRP:Premier League
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1669928
-#EXTINF:0,Sky Sports Main Event HD 25
+https://7pal.short.gy/ssportsnw
+#EXTINF:0,Sky Sport mix
 #EXTGRP:Premier League
-http://ios.exodus-1.rocks:8080/crigs/tdsryrhq/1669927
-#EXTINF:0,SkySport Premier League
-#EXTGRP:Premier League
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8
-#EXTINF:0,Sky Sport Premier League 
-#EXTGRP:Premier League
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8
-#EXTINF:0,Sky Sport Premier League 50 FPS
-#EXTGRP:Premier League
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/9334/index.m3u8
-#EXTINF:0,Sky Sport Premier League FHD
-#EXTGRP:Premier League
-http://extraott.com:900/live/3338826713/8323116234/153693.m3u8
+http://p1.cvtv.xyz/mix?token=live
 #EXTINF:0,Sky Sport Action
 #EXTGRP:Premier League
 http://stream.tvtap.live:8081/live/maction.stream/playlist.m3u8
 #EXTINF:0,Sky Sport Football
 #EXTGRP:Premier League
-http://stream.tvtap.live:8081/live/skysports-football.stream/chunks.m3u8
+https://7pal.short.gy/ssportsfb
 #EXTINF:0,Sky Sport +
 #EXTGRP:Premier League
 http://luckyiptv.ddns.net:23000/live/Eugenio/Eugenio/8640.ts
