@@ -791,3 +791,15 @@ https://thvip.site/360/148/index.m3u8
 #EXTINF:0, TV360-4
 #EXTGRP:TV360LIVE
 https://thvip.site/360/2458/index.m3u8
+#EXTINF:0, TV360-5
+#EXTGRP:TV360LIVE
+https://thvip.site/360/9867/index.m3u8
+#EXTINF:0, TV360-6
+#EXTGRP:TV360LIVE
+https://thvip.site/360/9868/index.m3u8
+#EXTINF:0, TV360-7
+#EXTGRP:TV360LIVE
+https://thvip.site/360/9869/index.m3u8
+#EXTINF:0, TV360-8
+#EXTGRP:TV360LIVE
+https://thvip.site/360/9870/index.m3u8
